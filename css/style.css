@@ -1,0 +1,34 @@
+@import url('footer.css');
+
+body {
+  background-color: black;
+  color: white;
+}
+
+.footer-copyright {
+  font-size: 12px;
+}
+
+#map {
+  position: center;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.form-group{
+  box-shadow: 0 0 8px rgba(0,0,0,0.2);
+}
+
+.btn {
+  box-shadow: 0 0 8px rgba(0,0,0,0.2);
+}
+
+.logo {
+  width: 40%;
+  filter: drop-shadow(0 0 8px rgba(0,0,0,0.3));
+}
+
+.results {
+  text-shadow: 0 0 8px rgba(0,0,0,0.2);
+}
